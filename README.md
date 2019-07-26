@@ -1,4 +1,4 @@
-#Project 6 (8B): Ethereum DApp for Tracking Items through Supply Chain
+# Project 6 (8B): Ethereum DApp for Tracking Items through Supply Chain
 
 In this project I implemented Dates supply chain management tracking DApp using Ethereum. The tracking starts from the Farmer who harvests the dates and it ends in the final Consumer level through Distributors and Retailer. The farmer can harvers, process, pack, and add the dates items. Distributors can sell and ship these items to retailers. Consumers can purchase these items.
 
