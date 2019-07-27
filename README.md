@@ -190,3 +190,6 @@ You can [view the contract in Etherscan](https://rinkeby.etherscan.io/address/0x
 * Solidity v0.4.24 (solc-js)
 * Ganache CLI v6.4.3 (ganache-core: 2.5.5)
 
+## Optional Part (IPFS)
+
+* I have not implement the optional part related to IPFS.
